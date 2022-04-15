@@ -1,0 +1,7 @@
+header div#top-promo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red; }
+  header div#top-promo p {
+    text-align: center; }
