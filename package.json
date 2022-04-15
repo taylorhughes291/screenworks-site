@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "build": "CI= react-scripts build",
     "css": "node-sass --include-path sass styles.sass styles.css",
     "watch": "nodemon -e sass -x 'npm run css'"
   },
